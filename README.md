@@ -57,8 +57,8 @@
 
 ### 🎧 What I'm listening to...
 <div align="left">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31lzo7jqgq6il4l5wkqy6neyypoy&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lzo7jqgq6il4l5wkqy6neyypoy&cover_image=true&theme=tokyonight&bar_color=00FF41&bar_color_cover=false" />
+  <a href="https://github.com/jujup1t3r">
+    <img src="https://novatorem-spotify-status.vercel.app/api/now-playing?user=31lzo7jqgq6il4l5wkqy6neyypoy" alt="Spotify Now Playing" />
   </a>
 </div>
 
