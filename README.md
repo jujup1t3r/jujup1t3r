@@ -55,12 +55,12 @@
 
 ---
 
-### 🎧 What I'm listening to...
-<div align="left">
-  <a href="https://github.com/jujup1t3r">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lzo7jqgq6il4l5wkqy6neyypoy&cover_image=true&theme=tokyonight&bar_color=00FF41&bar_color_cover=false" />
+### 🎧 Current Soundtrack
+<p align="left">
+  <a href="https://open.spotify.com/user/31lzo7jqgq6il4l5wkqy6neyypoy" target="_blank">
+    <img src="https://img.shields.io/badge/Listening%20to-RADWIMPS%20%7C%20the%20peggies-00FF41?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
   </a>
-</div>
+</p>
 
 ---
 
