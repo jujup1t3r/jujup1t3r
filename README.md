@@ -56,11 +56,11 @@
 
 ### 🎧 Current Soundtrack
 <p align="left">
-<a href="https://open.spotify.com/artist/1EowjfsThaRQoST9SixpVr" target="_blank">
-<img src="https://img.shields.io/badge/Listening%20to-RADWIMPS-00FF41?style=for-the-badge&logo=spotify&logoColor=black" alt="RADWIMPS" />
+<a href="https://open.spotify.com/artist/1EowJpSpSAB9tYmURJAWDy" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-RADWIMPS-555555?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify RADWIMPS" />
 </a>
-<a href="https://open.spotify.com/artist/1969mo49X99990pS799YpZ" target="_blank">
-<img src="https://img.shields.io/badge/Favorite-the%20peggies-BD00FF?style=for-the-badge&logo=spotify&logoColor=white" alt="the peggies" />
+<a href="https://open.spotify.com/artist/1S7669O9O096YAsu6S0S8P" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-the%20peggies-555555?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify the peggies" />
 </a>
 </p>
 
