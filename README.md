@@ -10,6 +10,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 ---
 
 ### 🛠️ My Tech Stack (Animated Icons)
@@ -19,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats (Tokyo Night Theme - เข้ากับ Dark Mode)
+### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jujup1t3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujup1t3r&layout=compact&theme=tokyonight&hide=html,css" />
@@ -33,13 +37,50 @@
 
 ### 🛸 Featured Projects
 - 🛰️ **Drone Detection:** ระบบตรวจจับโดรนด้วย YOLOv8 (Deep Learning)
-- 🏥 **Healthcare IoT:** ระบบมอนิเตอร์ระดับออกซิเจนในเลือดสำหรับทารก
-- 🎮 **Game Logic:** พัฒนาเกมหมากรุกไทยด้วยภาษา Java
 - 🤖 **Control Systems:** การควบคุมโดรนและป้องกันสัญญาณรบกวนผ่าน MATLAB
+- 🎮 **Game Logic:** พัฒนาเกมหมากรุกไทยด้วยภาษา Java
+- 🏥 **Healthcare IoT:** ระบบมอนิเตอร์ระดับออกซิเจนในเลือดสำหรับทารก
 
 ---
 
-### 📫 Connect with me (Social Buttons)
+### 🛸 Featured Project: YOLOv8 Drone Detection
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src=https://s2.ezgif.com/tmp/ezgif-2578e4fed34ff170.gif" width="100%" />
+      </td>
+      <td width="50%">
+        <strong>System Overview:</strong><br>
+        - Real-time detection using YOLOv8<br>
+        - Integrated with MATLAB for control<br>
+        - Hardware: Raspberry Pi / Jetson Nano
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎧 What I'm listening to...
+<div align="left">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=LittlERiN&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=LittlERiN&cover_image=true&theme=tokyonight&bar_color=00FF41&bar_color_cover=false" />
+  </a>
+</div>
+
+---
+
+### 🐍 My Contributions in Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📫 Connect with me
 <p align="left">
   <a href="https://www.facebook.com/apichaya.pumpuang" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
