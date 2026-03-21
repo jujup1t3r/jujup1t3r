@@ -57,10 +57,10 @@
 ### 🎧 Current Soundtrack
 <p align="left">
 <a href="https://open.spotify.com/artist/1EowJpSpSAB9tYmURJAWDy" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-RADWIMPS-555555?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify RADWIMPS" />
+<img src="https://img.shields.io/badge/Spotify-YOASOBI-555555?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify YOASOBI" />
 </a>
 <a href="https://open.spotify.com/artist/1S7669O9O096YAsu6S0S8P" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-the%20peggies-555555?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify the peggies" />
+<img src="https://img.shields.io/badge/Spotify-YENTED-555555?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify YENTED" />
 </a>
 </p>
 
