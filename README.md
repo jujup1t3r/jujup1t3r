@@ -32,18 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jujup1t3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujup1t3r&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jujup1t3r&theme=tokyonight" />
-</div>
-
----
-
 ### 🛸 Featured Project: YOLOv8 Drone Detection
 <div align="center">
   <table border="0">
