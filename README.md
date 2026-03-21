@@ -1,7 +1,7 @@
 # Hi there, I'm Junior! 👋 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Computer%20Engineering%20Student&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ffcc&height=200&section=header&text=JUNIOR%20DEV&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Passionate+about+Drone+Technology;Developing+YOLO+Detection+Systems;Working+with+Arduino+%26+Embedded+Systems;Software+Developer+(Python,+Java,+C)" alt="Typing SVG" />
