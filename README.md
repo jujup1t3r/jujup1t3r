@@ -1,7 +1,6 @@
 # Hi there, I'm Junior! 👋 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=JUNIOR%20:%3E%20RUN%20DRONE_SYSTEM&fontSize=45&fontColor=00FF41&animation=twinkling&stroke=00FF41&strokeWidth=1" width="100%" />
 
   <br/>
 
