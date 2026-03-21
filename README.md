@@ -1,10 +1,12 @@
 # Hi there, I'm Junior! 👋 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ffcc&height=200&section=header&text=JUNIOR%20DEV&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=JUNIOR%20:%3E%20RUN%20DRONE_SYSTEM&fontSize=45&fontColor=00FF41&animation=twinkling&stroke=00FF41&strokeWidth=1" width="100%" />
+
+  <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Passionate+about+Drone+Technology;Developing+YOLO+Detection+Systems;Working+with+Arduino+%26+Embedded+Systems;Software+Developer+(Python,+Java,+C)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Passionate+about+Drone+Technology;Developing+YOLO+Detection+Systems;Working+with+Arduino+%26+Embedded+Systems;Software+Developer+(Python,+Java,+C)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +19,7 @@
 
 ---
 
-### 📊 GitHub Stats (Neon Theme)
+### 📊 GitHub Stats (Tokyo Night Theme - เข้ากับ Dark Mode)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jujup1t3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujup1t3r&layout=compact&theme=tokyonight&hide=html,css" />
@@ -29,19 +31,27 @@
 
 ---
 
-### 🛸 Current Projects & Interests
-- 🛰️ **Drone Detection:** พัฒนาระบบตรวจจับโดรนด้วย YOLOv8 
-- 🏥 **Healthcare IoT:** โปรเจกต์ตรวจวัดระดับออกซิเจนในเลือดสำหรับทารก
-- 🎮 **Game Dev:** พัฒนาเกมหมากรุกไทย (Thai Chess) ด้วย Java
-- 🤖 **Embedded System:** สร้างระบบควบคุมผ่าน Arduino และ MATLAB
+### 🛸 Featured Projects
+- 🛰️ **Drone Detection:** ระบบตรวจจับโดรนด้วย YOLOv8 (Deep Learning)
+- 🏥 **Healthcare IoT:** ระบบมอนิเตอร์ระดับออกซิเจนในเลือดสำหรับทารก
+- 🎮 **Game Logic:** พัฒนาเกมหมากรุกไทยด้วยภาษา Java
+- 🤖 **Control Systems:** การควบคุมโดรนและป้องกันสัญญาณรบกวนผ่าน MATLAB
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with me (Social Buttons)
 <p align="left">
-  <a href="https://github.com/jujup1t3r" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+  <a href="https://www.facebook.com/apichaya.pumpuang" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://line.me/ti/p/yok-apichaya" target="blank">
+    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
+  </a>
+  <a href="https://www.instagram.com/jx_jupiter" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jujup1t3r&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF41&style=flat-square&label=SYSTEM+ACCESS" />
 </div>
