@@ -35,26 +35,19 @@
 
 ---
 
-### 🛸 Featured Projects
-- 🛰️ **Drone Detection:** ระบบตรวจจับโดรนด้วย YOLOv8 (Deep Learning)
-- 🤖 **Control Systems:** การควบคุมโดรนและป้องกันสัญญาณรบกวนผ่าน MATLAB
-- 🎮 **Game Logic:** พัฒนาเกมหมากรุกไทยด้วยภาษา Java
-- 🏥 **Healthcare IoT:** ระบบมอนิเตอร์ระดับออกซิเจนในเลือดสำหรับทารก
-
----
-
 ### 🛸 Featured Project: YOLOv8 Drone Detection
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
-        <img src=https://s2.ezgif.com/tmp/ezgif-2578e4fed34ff170.gif" width="100%" />
+        <img src=".github/workflows/ezgif-2578e4fed34ff170.gif" width="100%" />
       </td>
       <td width="50%">
         <strong>System Overview:</strong><br>
         - Real-time detection using YOLOv8<br>
         - Integrated with MATLAB for control<br>
-        - Hardware: Raspberry Pi / Jetson Nano
+        - Hardware: Raspberry Pi / Jetson Nano<br>
+        - Features: Drone Monitoring & Blood Oxygen Detection Integration
       </td>
     </tr>
   </table>
@@ -64,8 +57,8 @@
 
 ### 🎧 What I'm listening to...
 <div align="left">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=LittlERiN&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=LittlERiN&cover_image=true&theme=tokyonight&bar_color=00FF41&bar_color_cover=false" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31lzo7jqgq6il4l5wkqy6neyypoy&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lzo7jqgq6il4l5wkqy6neyypoy&cover_image=true&theme=tokyonight&bar_color=00FF41&bar_color_cover=false" />
   </a>
 </div>
 
@@ -73,9 +66,9 @@
 
 ### 🐍 My Contributions in Snake Game
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jujup1t3r/jujup1t3r/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jujup1t3r/jujup1t3r/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jujup1t3r/jujup1t3r/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -94,5 +87,5 @@
 </p>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF41&style=flat-square&label=SYSTEM+ACCESS" />
+  <img src="https://komarev.com/ghpvc/?username=jujup1t3r&color=00FF41&style=flat-square&label=SYSTEM+ACCESS" />
 </div>
