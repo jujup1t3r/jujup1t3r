@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ My Tech Stack (Animated Icons)
+### 🛠️ My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,c,matlab,arduino,raspberrypi,mysql,git&theme=dark" />
 </p>
@@ -56,9 +56,12 @@
 
 ### 🎧 Current Soundtrack
 <p align="left">
-  <a href="https://open.spotify.com/user/31lzo7jqgq6il4l5wkqy6neyypoy" target="_blank">
-    <img src="https://img.shields.io/badge/Listening%20to-RADWIMPS%20%7C%20the%20peggies-00FF41?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
-  </a>
+<a href="https://open.spotify.com/artist/1EowjfsThaRQoST9SixpVr" target="_blank">
+<img src="https://img.shields.io/badge/Listening%20to-RADWIMPS-00FF41?style=for-the-badge&logo=spotify&logoColor=black" alt="RADWIMPS" />
+</a>
+<a href="https://open.spotify.com/artist/1969mo49X99990pS799YpZ" target="_blank">
+<img src="https://img.shields.io/badge/Favorite-the%20peggies-BD00FF?style=for-the-badge&logo=spotify&logoColor=white" alt="the peggies" />
+</a>
 </p>
 
 ---
