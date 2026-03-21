@@ -45,8 +45,8 @@
         <strong>System Overview:</strong><br>
         - Real-time detection using YOLOv8<br>
         - Integrated with MATLAB for control<br>
-        - Hardware: Raspberry Pi / Jetson Nano<br>
-        - Features: Drone Monitoring & Blood Oxygen Detection Integration
+        - Hardware: Raspberry Pi <br>
+        - Features: Drone Monitoring 
       </td>
     </tr>
   </table>
