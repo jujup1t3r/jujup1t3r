@@ -15,10 +15,20 @@
 
 ---
 
-### 🛠️ My Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,matlab,arduino,raspberrypi,mysql,git&theme=dark" />
-</p>
+### 🏆 My Stats:
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jujup1t3r&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      </td>
+      <td width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujup1t3r&layout=compact&theme=dark&hide=html,css" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
